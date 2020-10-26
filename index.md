@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>COLIN ILGEN</title>
-<link rel="stylesheet" type="text/css" href="file:///Macintosh HD/Users/colinilgen/Desktop/ArtWeb/style.css">
+<link rel="stylesheet" type="text/css" href="file:///Macintosh HD/Users/colinilgen/Desktop/ilgen.github.io/style.css">
 </head>
 <body>
 <!-- Main Container -->
@@ -15,9 +15,9 @@
   <section class="intro" width="2000">
     <div class="column" style="color: dimgrey">
       <h3>COLIN ILGEN&nbsp;</h3>
-      <img src="IMG-0924.jpg" alt="" class="profile" width="cover"></div>
+      <img src="file:///Macintosh HD/Users/colinilgen/Desktop/ilgen.github.io/recentpaintings/IMG-0924.jpg" alt="" class="profile" width="cover"></div>
     <div class="column">
-		<p>I am a visual arist based in Los Angeles working in acrylic, watercolor, charcoal, and digital. Below you will find a small selection of my paintings. I am represented worldwide by Jorge Andrew Gallery -- contact for sales / inquiries at jorgeandrewtorrens@gmail.com</p>
+    <p>I am a visual arist based in Los Angeles working in acrylic, watercolor, charcoal, and digital. Below you will find a small selection of my paintings. I am represented worldwide by Jorge Andrew Gallery -- contact for sales / inquiries at jorgeandrewtorrens@gmail.com</p>
     </div>
   </section>
   <!-- Stats Gallery Section -->
