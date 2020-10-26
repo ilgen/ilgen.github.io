@@ -58,19 +58,6 @@
     </div>
   </div>
   <!-- Footer Section -->
-  <footer id="contact">
-    <p class="hero_header">CONTACT</p>
-    <form action="mailto:colin.ilgen@gmail.com" method="post" enctype="text/plain" style="text-align: center">
-Name:<br>
-<input type="text" name="name"><br>
-E-mail:<br>
-<input type="text" name="mail"><br>
-Comment:<br>
-<input type="text" name="comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
-</form>
-  </footer>
   <!-- Copyrights Section -->
   <div class="copyright">&copy;2020 COLIN ILGEN&nbsp; &nbsp;&nbsp; <strong>&nbsp;</strong></div>
 </div>
