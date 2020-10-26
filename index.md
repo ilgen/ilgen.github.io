@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>COLIN ILGEN</title>
-<link rel="stylesheet" type="text/css" href="../Desktop/ilgen.github.io/style.css">
+<link rel="stylesheet" type="text/css" href="file:///Macintosh HD/Users/colinilgen/Desktop/ilgen.github.io/style.css">
 </head>
 <body>
 <!-- Main Container -->
